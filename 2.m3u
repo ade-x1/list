@@ -1,0 +1,127 @@
+#EXTM3U
+
+#EXTINF:-1,RAI 1 (Rai)
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803
+
+#EXTINF:-1,RAI 2 (Rai)
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606807
+
+#EXTINF:-1,RAI 3 (Rai)
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606809
+
+#EXTINF:-1,RAI News 24 (Rai)
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718
+
+#EXTINF:-1,RAI Sport (Rai)
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=414804
+
+#EXTINF:-1,Rai 1 (Antik)
+https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
+
+#EXTINF:-1,Rai 2 (Antik)
+https://dash2.antik.sk/live/test_rai_due_tizen/playlist.m3u8
+
+#EXTINF:-1,Rai 3 (Antik)
+https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8
+
+#EXTINF:-1,Canale 5 (Antik)
+https://dash2.antik.sk/live/test_canale5_tizen/playlist.m3u8
+
+#EXTINF:-1,Italia 1 (Antik)
+https://dash2.antik.sk/live/test_italia1_tizen/playlist.m3u8
+
+#EXTINF:-1,Rete 4 (Antik)
+https://dash2.antik.sk/live/test_rete4_tizen/playlist.m3u8
+
+#EXTINF:-1,La7 (Antik)
+https://dash2.antik.sk/live/test_la7_tizen/playlist.m3u8
+
+#EXTINF:-1,Real Time (Antik)
+https://dash2.antik.sk/live/test_realtime_tizen/playlist.m3u8
+
+#EXTINF:-1,DMAX (Antik)
+https://dash2.antik.sk/live/test_dmax_tizen/playlist.m3u8
+
+#EXTINF:-1,Focus (Antik)
+https://dash2.antik.sk/live/test_focus_tizen/playlist.m3u8
+
+#EXTINF:-1,Giallo (Antik)
+https://dash2.antik.sk/live/test_giallo_tizen/playlist.m3u8
+
+#EXTINF:-1,NOVE (Antik)
+https://dash2.antik.sk/live/test_nove_tizen/playlist.m3u8
+
+#EXTINF:-1,Top Crime (Antik)
+https://dash2.antik.sk/live/test_topcrime_tizen/playlist.m3u8
+
+#EXTINF:-1,Boing (Antik)
+https://dash2.antik.sk/live/test_boing_tizen/playlist.m3u8
+
+#EXTINF:-1,Cartoonito (Antik)
+https://dash2.antik.sk/live/test_cartoonito_tizen/playlist.m3u8
+
+#EXTINF:-1,RAI 1 (Netplus)
+https://cachehsi1a.netplus.ch/live/eds/rai1/browser-dash/rai1.mpd
+
+#EXTINF:-1,RAI 2 (Netplus)
+https://cachehsi1a.netplus.ch/live/eds/rai2/browser-dash/rai2.mpd
+
+#EXTINF:-1,RAI 3 (Netplus)
+https://cachehsi1a.netplus.ch/live/eds/rai3/browser-dash/rai3.mpd
+
+#EXTINF:-1,RAI News 24 (Netplus)
+https://cachehsi1a.netplus.ch/live/eds/rainews/browser-dash/rainews.mpd
+
+#EXTINF:-1,Canale 5 (Netplus)
+https://cachehsi1a.netplus.ch/live/eds/canale5/browser-dash/canale5.mpd
+
+#EXTINF:-1,Italia 1 (Netplus)
+https://cachehsi1a.netplus.ch/live/eds/italia1/browser-dash/italia1.mpd
+
+#EXTINF:-1,Rete 4 (Netplus)
+https://cachehsi1a.netplus.ch/live/eds/rete4/browser-dash/rete4.mpd
+
+#EXTINF:-1,La7 (Netplus)
+https://cachehsi1a.netplus.ch/live/eds/la7/browser-dash/la7.mpd
+
+#EXTINF:-1,TV8 (Netplus)
+https://cachehsi1a.netplus.ch/live/eds/tv8/browser-dash/tv8.mpd
+
+#EXTINF:-1,La 7d (Netplus)
+https://cachehsi1a.netplus.ch/live/eds/la7d/browser-dash/la7d.mpd
+
+#EXTINF:-1,Real Time (Netplus)
+https://cachehsi1a.netplus.ch/live/eds/realtime/browser-dash/realtime.mpd
+
+#EXTINF:-1,NOVE (Netplus)
+https://cachehsi1a.netplus.ch/live/eds/nove/browser-dash/nove.mpd
+
+#EXTINF:-1,TV2000 (Netplus)
+https://cachehsi1a.netplus.ch/live/eds/tv2000/browser-dash/tv2000.mpd
+
+#EXTINF:-1,Mediaset Extra (Netplus)
+https://cachehsi1a.netplus.ch/live/eds/mediasetextra/browser-dash/mediasetextra.mpd
+
+#EXTINF:-1,20 Mediaset (Netplus)
+https://cachehsi1a.netplus.ch/live/eds/20mediaset/browser-dash/20mediaset.mpd
+
+#EXTINF:-1,Cielo (Netplus)
+https://cachehsi1a.netplus.ch/live/eds/cielo/browser-dash/cielo.mpd
+
+#EXTINF:-1,Focus (Netplus)
+https://cachehsi1a.netplus.ch/live/eds/focus/browser-dash/focus.mpd
+
+#EXTINF:-1,Giallo (Netplus)
+https://cachehsi1a.netplus.ch/live/eds/giallo/browser-dash/giallo.mpd
+
+#EXTINF:-1,Top Crime (Netplus)
+https://cachehsi1a.netplus.ch/live/eds/topcrime/browser-dash/topcrime.mpd
+
+#EXTINF:-1,Boing (Netplus)
+https://cachehsi1a.netplus.ch/live/eds/boing/browser-dash/boing.mpd
+
+#EXTINF:-1,Cartoonito (Netplus)
+https://cachehsi1a.netplus.ch/live/eds/cartoonito/browser-dash/cartoonito.mpd
+
+#EXTINF:-1,RAI Italia (Globo)
+https://ilglobotv-live.akamaized.net/RAIITALIA/index.m3u8
