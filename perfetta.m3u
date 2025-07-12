@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="RealTime.it" tvg-logo="https://i.imgur.com/9dcTYg1.png", Real Time
+#EXTINF:-1 tvg-id="Real.Time.it" tvg-logo="https://i.imgur.com/9dcTYg1.png", Real Time
 https://d3562mgijzx0zq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kizqtzpvvl3i8/Realtime_IT.m3u8
 
 #EXTINF:-1 tvg-id="FoodNetworkItaly.it" tvg-logo="https://i.imgur.com/i60OYr9.png", Food Network
