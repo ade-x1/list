@@ -1,29 +1,29 @@
 #EXTM3U
 
 #EXTGRP:Warner Bros. Discovery
-#EXTINF:-1 tvg-id="Real.Time.it" tvg-logo="https://i.imgur.com/9dcTYg1.png", Real Time
+#EXTINF:-1 tvg-id="RealTimeItaly.it" tvg-logo="https://i.imgur.com/9dcTYg1.png", Real Time
 https://amg16146-wbdi-amg16146c2-samsung-it-1835.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-realtime-samsungit/playlist.m3u8
-#EXTINF:-1 tvg-id="HGTV.it" tvg-logo="https://i.imgur.com/emLNC0U.png",Home&Garden
+#EXTINF:-1 tvg-id="HGTVItaly.it" tvg-logo="https://i.imgur.com/emLNC0U.png",Home&Garden
 https://amg16146-wbdi-amg16146c9-samsung-it-1842.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-hgtv-samsungit/playlist.m3u8
-#EXTINF:-1 tvg-id="Food.Network.it" tvg-logo="https://i.imgur.com/i60OYr9.png",Food Network
+#EXTINF:-1 tvg-id="FoodNetworkItaly.it" tvg-logo="https://i.imgur.com/i60OYr9.png",Food Network
 https://amg16146-wbdi-amg16146c3-samsung-it-1836.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-foodnetwork-samsungit/playlist.m3u8
-#EXTINF:-1 tvg-id="Warner.TV.it" tvg-logo="https://i.imgur.com/oIWFcOC.png",Warner TV
+#EXTINF:-1 tvg-id="WarnerTVItaly.it" tvg-logo="https://i.imgur.com/oIWFcOC.png",Warner TV
 https://amg16146-wbdi-amg16146c4-samsung-it-1837.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-warnertv-samsungit/playlist.m3u8
-#EXTINF:-1 tvg-id="DMAX.it" tvg-logo="https://i.imgur.com/dmEmRX7.png",DMAX
+#EXTINF:-1 tvg-id="DMAXItaly.it" tvg-logo="https://i.imgur.com/dmEmRX7.png",DMAX
 https://amg16146-wbdi-amg16146c8-samsung-it-1841.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-dmax-samsungit/playlist.m3u8
-#EXTINF:-1,NOVE
+#EXTINF:-1 tvg-id="Nove.it" tvg-logo="https://i.imgur.com/Hp723RU.png",NOVE
 https://amg16146-wbdi-amg16146c1-samsung-it-1831.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-nove-samsungit/playlist.m3u8
-#EXTINF:-1,Giallo
+#EXTINF:-1 tvg-id="Giallo.it" tvg-logo="https://i.imgur.com/0PIRwZS.png",Giallo
 https://amg16146-wbdi-amg16146c5-samsung-it-1838.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-giallo-samsungit/playlist.m3u8
-#EXTINF:-1,Motor Trend
+#EXTINF:-1 tvg-id="MotorTrend.it" tvg-logo="https://i.imgur.com/ipj2H0n.png",Motor Trend
 https://amg16146-wbdi-amg16146c10-samsung-it-1843.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-motortrend-samsungit/playlist.m3u8
 
 #EXTGRP:RAI (National Broadcaster)
-#EXTINF:74,Rai 1 HD
+#EXTINF:74 tvg-id="Rai1.it" tvg-logo="https://i.imgur.com/CAx7yRm.png",Rai 1 HD
 https://cachehsi1a.netplus.ch/live/eds/rai1/browser-dash/rai1.mpd
 #Rai 1 HD
 #https://ilglobotv-live.akamaized.net/channels/RAI1/Live.m3u8
-#EXTINF:0,Rai 2 HD
+#EXTINF:0 tvg-id="Rai2.it" tvg-logo="https://i.imgur.com/zA0PTcs.png",Rai 2 HD
 https://cachehsi1a.netplus.ch/live/eds/rai2/browser-dash/rai2.mpd
 #Rai 2 HD
 #https://ilglobotv-live.akamaized.net/channels/RAI2/Live.m3u8
@@ -31,37 +31,37 @@ https://cachehsi1a.netplus.ch/live/eds/rai2/browser-dash/rai2.mpd
 #https://cachehsi1a.netplus.ch/live/eds/rai3/browser-dash/rai3.mpd
 #Rai 3
 #https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8
-#EXTINF:76,Rai 3
+#EXTINF:76 tvg-id="Rai3.it" tvg-logo="https://i.imgur.com/9kuQCIi.png",Rai 3
 https://ilglobotv-live.akamaized.net/channels/RAI3/Live.m3u8
-#EXTINF:76,Rai Italia
+#EXTINF:76 tvg-id="Mediaset.Italia.-.Europa.e.Africa.it",Rai Italia
 https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAfrica/Live.m3u8
-#EXTINF:0,Rai Movie
+#EXTINF:0 tvg-id="RaiMovie.it",Rai Movie
 http://188.60.179.180:8000/play/xxRaiMOviexx
-#EXTINF:0,Rai Premium
+#EXTINF:0 tvg-id="RaiPremium.it",Rai Premium
 http://188.60.179.180:8000/play/a0oy
-#EXTINF:76,Rai World Premium
+#EXTINF:76 tvg-id="RaiPremium.it" tvg-logo="https://i.imgur.com/RKI4nFy.png",Rai World Premium
 https://ilglobotv-live.akamaized.net/channels/RAIPremium/Live.m3u8
-#EXTINF:61,Rai Scuola
+#EXTINF:61 tvg-id="RaiScuola.it" tvg-logo="https://i.imgur.com/tmtJW6s.png",Rai Scuola
 https://cachehsi1a.netplus.ch/live/eds/raiscuola/browser-dash/raiscuola.mpd
-#EXTINF:60,Rai Storia
+#EXTINF:60 tvg-id="RaiStoria.it" tvg-logo="https://i.imgur.com/K8y5q8x.png",Rai Storia
 https://cachehsi1a.netplus.ch/live/eds/raistoria/browser-dash/raistoria.mpd
 #EXTINF:24,7 STORIA
 https://stream10.xdevel.com/video2s976543-2104/stream/playlist.m3u8
 
 #EXTGRP:Mediaset (National Broadcaster)
-#EXTINF:105,Canale 5 HD
+#EXTINF:105 tvg-id="Canale.5.it" tvg-logo="https://i.imgur.com/p6YdiR1.png",Canale 5 HD
 https://cachehsi1a.netplus.ch/live/eds/canale5/browser-dash/canale5.mpd
-#EXTINF:58,Rete 4 HD
+#EXTINF:58 tvg-id="Rete.4.it" tvg-logo="https://i.imgur.com/GWx2Fkl.png",Rete 4 HD
 https://cachehsi1a.netplus.ch/live/eds/rete4/browser-dash/rete4.mpd
-#EXTINF:61,Italia 1 HD
+#EXTINF:61 tvg-id="Italia.1.it" tvg-logo="https://i.imgur.com/oCiOxBG.png",Italia 1 HD
 https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
-#EXTINF:29,Italia 2
+#EXTINF:29 tvg-id="Italia.2.it" tvg-logo="https://i.imgur.com/nq48sjO.png",Italia 2
 https://59d7d6f47d7fc.streamlock.net/italia2/italia2/playlist.m3u8
-#EXTINF:84,Mediaset Italia
+#EXTINF:84 tvg-id="Mediaset.Italia.-.Europa.e.Africa.it",Mediaset Italia
 https://ilglobotv-live.akamaized.net/channels/MediasetItalia/Live.m3u8
 
 #EXTGRP:General Entertainment
-#EXTINF:61,LA7 HD
+#EXTINF:61 tvg-id="La7.it" tvg-logo="https://i.imgur.com/F90mpSa.png",LA7 HD
 https://cachehsi1a.netplus.ch/live/eds/la7/browser-dash/la7.mpd
 #LA7
 #https://d3749synfikwkv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-74ylxpgd78bpb/Live.m3u8
@@ -69,88 +69,88 @@ https://cachehsi1a.netplus.ch/live/eds/la7/browser-dash/la7.mpd
 #https://ilglobotv-live.akamaized.net/channels/La7Italia/Live.m3u8
 #TV2000
 #https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
-#EXTINF:29,TV 2000
+#EXTINF:29 tvg-id="TV2000.va" tvg-logo="https://i.imgur.com/x7RaK3a.png",TV 2000
 https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
-#EXTINF:-1,BOM CHANNEL
+#EXTINF:-1 tvg-id="BomChannel.it" tvg-logo="https://i.imgur.com/hISoOK3.png",BOM CHANNEL
 https://5f22d76e220e1.streamlock.net/canale6/canale6/playlist.m3u8
-#EXTINF:34,Cusano Italia TV
+#EXTINF:34 tvg-id="CusanoNews7.it" tvg-logo="https://i.imgur.com/9F1sVjZ.png",Cusano Italia TV
 https://router.xdevel.com/video0s975363-69/stream/playlist.m3u8
-#EXTINF:30,Gold TV Sat
+#EXTINF:30 tvg-id="GoldTVSat.it" tvg-logo="https://i.imgur.com/3rVi4kD.png",Gold TV Sat
 https://5a1178b42cc03.streamlock.net/goldsat/goldsat/playlist.m3u8
 
 #EXTGRP:Kids
-#EXTINF:-1,K2
+#EXTINF:-1 tvg-id="K2.it" tvg-logo="https://i.imgur.com/wlLgSiA.png",K2
 https://amg16146-wbdi-amg16146c6-samsung-it-1839.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-k2-samsungit/playlist.m3u8
-#EXTINF:-1,Frisbee
+#EXTINF:-1 tvg-id="Frisbee.it" tvg-logo="https://i.imgur.com/9y1zIAe.png",Frisbee
 https://amg16146-wbdi-amg16146c7-samsung-it-1840.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-frisbee-samsungit/playlist.m3u8
-#EXTINF:19,Boing
+#EXTINF:19 tvg-id="Boing.it",Boing
 https://liveturner.akamaized.net/75a4d1a90e744fa5b9901a1853d2c47f/eu-central-1/6284318116001/playlist.m3u8
-#EXTINF:67,Rai Gulp HD
+#EXTINF:67 tvg-id="RaiGulp.it" tvg-logo="https://i.imgur.com/lu1DPVb.png",Rai Gulp HD
 https://cachehsi1a.netplus.ch/live/eds/raigulp/browser-dash/raigulp.mpd
 #Rai Gulp
 #http://188.60.179.180:8000/play/xxRaiGulpxx
-#EXTINF:0,Rai Yoyo
+#EXTINF:0 tvg-id="RaiYoyo.it" tvg-logo="https://i.imgur.com/DRSa3ys.png",Rai Yoyo
 http://188.60.179.180:8000/play/xxRaiYoyo
-#EXTINF:60,Super!
+#EXTINF:60 tvg-id="Super.it" tvg-logo="https://i.imgur.com/zDByOwo.png",Super! 
 https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8
 
 #EXTGRP:Local & Regional
-#EXTINF:24,Alto Adige TV
+#EXTINF:24 tvg-id="AltoAdigeTV.it" tvg-logo="https://i.imgur.com/S2sCFQi.png",Alto Adige TV
 https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/playlist.m3u8
-#EXTINF:30,CANALE 7
+#EXTINF:30 tvg-id="Canale7.it" tvg-logo="https://i.imgur.com/9cuOLCn.png",CANALE 7
 http://wms.shared.streamshow.it/canale7/mp4:canale7/playlist.m3u8
-#EXTINF:30,Casa Italia 53
+#EXTINF:30 tvg-id="CanaleItalia.it" tvg-logo="https://i.imgur.com/O4GQVCk.png",Casa Italia 53
 https://ovp-live.akamaized.net/ac115_live/canale3.smil/playlist.m3u8
-#EXTINF:24,Company TV
+#EXTINF:24 tvg-id="CompanyTv.it" tvg-logo="https://i.imgur.com/IbabUDd.png",Company TV
 https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
-#EXTINF:30,Esperia TV
+#EXTINF:30 tvg-id="EsperiaTv.it" tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/esperiatv.png",Esperia TV
 http://wms.shared.streamshow.it/esperiatv/esperiatv/playlist.m3u8
-#EXTINF:29,Etna Espresso Channel
+#EXTINF:29 tvg-id="EtnaEspressoChannel.it" tvg-logo="https://i.imgur.com/hMUxytZ.png",Etna Espresso Channel
 https://5db313b643fd8.streamlock.net/Etnachannelponte/Etnachannelponte/playlist.m3u8
-#EXTINF:28,Euro TV
+#EXTINF:28 tvg-id="EuroTv.it" tvg-logo="https://i.imgur.com/HCl5Zbu.png",Euro TV
 https://5f22d76e220e1.streamlock.net/eurotv/eurotv/playlist.m3u8
-#EXTINF:30,Icaro TV
+#EXTINF:30 tvg-id="IcaroTvRimini.it" tvg-logo="https://i.imgur.com/z05VSSN.png",Icaro TV
 https://59d7d6f47d7fc.streamlock.net/icarotv/icarotv/playlist.m3u8
-#EXTINF:30,Italia 7
+#EXTINF:30 tvg-id="Italia7.it" tvg-logo="https://i.imgur.com/YBXkY4w.png",Italia 7
 https://streaming.softwarecreation.it/Italia7/Italia7/playlist.m3u8
 #EXTINF:7194,Le Cronache TV
 http://77.68.40.210:8888/hls/cronache.m3u8
-#EXTINF:116,Nuova TV
+#EXTINF:116 tvg-id="NuovaTv1.it" tvg-logo="https://i.imgur.com/1yqTZhR.png",Nuova TV
 https://nuovatv.net:8443/tv/stream.m3u8
-#EXTINF:30,PrimaFree
+#EXTINF:30 tvg-id="PrimaFREE.it" tvg-logo="https://i.imgur.com/YrSSmOL.png",PrimaFree
 https://5f22d76e220e1.streamlock.net/primafree/primafree/playlist.m3u8
-#EXTINF:30,Primocanale
+#EXTINF:30 tvg-id="Primocanale.it" tvg-logo="https://i.imgur.com/xWF1A1U.png",Primocanale
 https://msh0203.stream.seeweb.it/live/flv:stream2.sdp/playlist.m3u8
-#EXTINF:24,Quarto Canale Flegreo
+#EXTINF:24 tvg-id="QuartoCanaleFlegreo.it" tvg-logo="https://i.imgur.com/8RKY3Du.png",Quarto Canale Flegreo
 https://live.mariatvcdn.com/dialogos/171e41deedf405f10c7dd6311387fb43.sdp/playlist.m3u8
-#EXTINF:30,RTP
+#EXTINF:30 tvg-id="RtpTv.it" tvg-logo="https://i.imgur.com/I1hYI0C.png",RTP
 https://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8
-#EXTINF:31,ST Europe Channel
+#EXTINF:31 tvg-id="STEuropeChannel.it" tvg-logo="https://i.imgur.com/QpPgSfr.png",ST Europe Channel
 https://5f22d76e220e1.streamlock.net/steuropetv/steuropetv/playlist.m3u8
 #EXTINF:0,TV Campane 1
 https://eu1.servers10.com:8081/8032/index.m3u8
-#EXTINF:29,Rete 8
+#EXTINF:29 tvg-id="Rete8.it" tvg-logo="https://i.imgur.com/bGsjPRh.png",Rete 8
 https://64b16f23efbee.streamlock.net/rete8/rete8/playlist.m3u8
-#EXTINF:30,Tele One 16
+#EXTINF:30 tvg-id="TeleOne.it" tvg-logo="https://i.imgur.com/9trB6mj.png",Tele One 16
 https://648026e87a75e.streamlock.net/teleone/teleone/playlist.m3u8
 
 #EXTGRP:Sports
-#EXTINF:69,Rai Sport
+#EXTINF:69 tvg-id="RaiSport.it" tvg-logo="https://i.imgur.com/xsGljsb.png",Rai Sport
 #EXTVLCOPT:http-referrer=https://www.raisport.rai.it
 https://cachehsi1a.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
-#EXTINF:76,Inter TV
+#EXTINF:76 tvg-id="Inter.TV.it",Inter TV
 https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
-#EXTINF:60,TR Sport
+#EXTINF:60 tvg-id="Teleromagna24.it" tvg-logo="https://i.imgur.com/Bpml478.png",TR Sport
 https://livetr.teleromagna.it/mia/live/playlist.m3u8
-#EXTINF:60,Italian Fishing TV
+#EXTINF:60 tvg-id="ItalianFishingTV.it" tvg-logo="https://i.imgur.com/Q0jHCdC.png",Italian Fishing TV
 https://fms.premio.link/fishingtv/playlist.m3u8
-#EXTINF:23,GO-TV Canale 163
+#EXTINF:23 tvg-id="GOTVCanale163.it" tvg-logo="https://i.imgur.com/xgjrAAn.png",GO-TV Canale 163
 https://6zklxkbbdw9b-hls-live.mariatvcdn.it/msmotor/2f759512164fc6fe4acbed6a5648993a.sdp/playlist.m3u8
 
 #EXTGRP:News
-#EXTINF:59,Rai News 24
+#EXTINF:59 tvg-id="RaiNews24.it" tvg-logo="https://i.imgur.com/gdzGwB6.png",Rai News 24
 https://cachehsi1a.netplus.ch/live/eds/rainews/browser-dash/rainews.mpd
 #Rai News 24
 #https://ilglobotv-live.akamaized.net/channels/RAINews24/Live.m3u8
-#EXTINF:18,LaC News 24
+#EXTINF:18 tvg-id="LaCNews24.it" tvg-logo="https://i.imgur.com/02vCECa.png",LaC News 24
 https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S27391994/HVvPMzy/playlist.m3u8
