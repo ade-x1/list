@@ -1,15 +1,15 @@
 #EXTM3U
 
 #EXTGRP:Warner Bros. Discovery
-#EXTINF:-1,Real Time
+#EXTINF:-1 tvg-id="Real.Time.it" tvg-logo="https://i.imgur.com/9dcTYg1.png", Real Time
 https://amg16146-wbdi-amg16146c2-samsung-it-1835.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-realtime-samsungit/playlist.m3u8
-#EXTINF:-1,Home&Garden
+#EXTINF:-1 tvg-id="HGTV.it" tvg-logo="https://i.imgur.com/emLNC0U.png",Home&Garden
 https://amg16146-wbdi-amg16146c9-samsung-it-1842.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-hgtv-samsungit/playlist.m3u8
-#EXTINF:-1,Food Network
+#EXTINF:-1 tvg-id="Food.Network.it" tvg-logo="https://i.imgur.com/i60OYr9.png",Food Network
 https://amg16146-wbdi-amg16146c3-samsung-it-1836.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-foodnetwork-samsungit/playlist.m3u8
-#EXTINF:-1,Warner TV
+#EXTINF:-1 tvg-id="Warner.TV.it" tvg-logo="https://i.imgur.com/oIWFcOC.png",Warner TV
 https://amg16146-wbdi-amg16146c4-samsung-it-1837.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-warnertv-samsungit/playlist.m3u8
-#EXTINF:-1,DMAX
+#EXTINF:-1 tvg-id="DMAX.it" tvg-logo="https://i.imgur.com/dmEmRX7.png",DMAX
 https://amg16146-wbdi-amg16146c8-samsung-it-1841.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-dmax-samsungit/playlist.m3u8
 #EXTINF:-1,NOVE
 https://amg16146-wbdi-amg16146c1-samsung-it-1831.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-nove-samsungit/playlist.m3u8
