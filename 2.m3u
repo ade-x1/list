@@ -1,179 +1,94 @@
 #EXTM3U
-#EXTINF:-1,Real Time
-https://amg16146-wbdi-amg16146c2-samsung-it-1835.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-realtime-samsungit/playlist.m3u8
-#EXTINF:-1,Home&Garden
-https://amg16146-wbdi-amg16146c9-samsung-it-1842.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-hgtv-samsungit/playlist.m3u8
-#EXTINF:-1,Food Network
-https://amg16146-wbdi-amg16146c3-samsung-it-1836.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-foodnetwork-samsungit/playlist.m3u8
-#EXTINF:-1,Warner TV
-https://amg16146-wbdi-amg16146c4-samsung-it-1837.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-warnertv-samsungit/playlist.m3u8
-#EXTINF:-1,DMAX
-https://amg16146-wbdi-amg16146c8-samsung-it-1841.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-dmax-samsungit/playlist.m3u8
-#EXTINF:-1,NOVE
-https://amg16146-wbdi-amg16146c1-samsung-it-1831.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-nove-samsungit/playlist.m3u8
-#EXTINF:-1,Giallo
-https://amg16146-wbdi-amg16146c5-samsung-it-1838.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-giallo-samsungit/playlist.m3u8
-#EXTINF:-1,Motor Trend
-https://amg16146-wbdi-amg16146c10-samsung-it-1843.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-motortrend-samsungit/playlist.m3u8
-#EXTINF:-1,Rai 1
-https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
-#EXTINF:-1,Rai 1
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803
-#EXTINF:-1,Rai 1 HD
-http://77.83.120.135:8001/play/a11c
-#EXTINF:-1,Rai 1 HD
-https://ilglobotv-live.akamaized.net/channels/RAI1/Live.m3u8
-#EXTINF:-1,Rai 1 HD
-https://cachehsi1a.netplus.ch/live/eds/rai1/browser-dash/rai1.mpd
-#EXTINF:-1,Rai 2
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718
-#EXTINF:-1,Rai 2 HD
-https://ilglobotv-live.akamaized.net/channels/RAI2/Live.m3u8
-#EXTINF:-1,Rai 2 HD
-https://cachehsi1a.netplus.ch/live/eds/rai2/browser-dash/rai2.mpd
-#EXTINF:-1,Rai 3
-https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8
-#EXTINF:-1,Rai 3
-https://wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8
-#EXTINF:-1,Rai 3
-https://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
-#EXTINF:-1,Rai 3
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709
-#EXTINF:-1,Rai 3
-https://ilglobotv-live.akamaized.net/channels/RAI3/Live.m3u8
-#EXTINF:-1,Rai 3
-https://cachehsi1a.netplus.ch/live/eds/rai3/browser-dash/rai3.mpd
-#EXTINF:-1,Rai Italia
-https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAfrica/Live.m3u8
-#EXTINF:-1,Rai Movie
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002
-#EXTINF:-1,Rai Premium
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992
-#EXTINF:-1,Rai World Premium
-https://ilglobotv-live.akamaized.net/channels/RAIPremium/Live.m3u8
-#EXTINF:-1,Rai Scuola
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011
-#EXTINF:-1,Rai Scuola
-https://cachehsi1a.netplus.ch/live/eds/raiscuola/browser-dash/raiscuola.mpd
-#EXTINF:-1,Rai Storia
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990
-#EXTINF:-1,Rai Storia
-https://cachehsi1a.netplus.ch/live/eds/raistoria/browser-dash/raistoria.mpd
-#EXTINF:-1,7 STORIA
-https://stream10.xdevel.com/video2s976543-2104/stream/playlist.m3u8
-#EXTINF:-1,Canale 5
-https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(C5)/index.m3u8
-#EXTINF:-1,Canale 5 HD
-https://cachehsi1a.netplus.ch/live/eds/canale5/browser-dash/canale5.mpd
-#EXTINF:-1,Rete 4
-https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(r4)/index.m3u8
-#EXTINF:-1,Rete 4 HD
-https://cachehsi1a.netplus.ch/live/eds/rete4/browser-dash/rete4.mpd
-#EXTINF:-1,Italia 1
-https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i1)/index.m3u8
-#EXTINF:-1,Italia 1 HD
-https://cachehsi1a.netplus.ch/live/eds/italia1/browser-dash/italia1.mpd
-#EXTINF:-1,Italia 2
-https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i2)/index.m3u8
-#EXTINF:-1,Italia 2
-https://59d7d6f47d7fc.streamlock.net/italia2/italia2/playlist.m3u8
-#EXTINF:-1,Mediaset Italia
-https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(i2)/index.m3u8
-#EXTINF:-1,Mediaset Italia
-https://ilglobotv-live.akamaized.net/channels/MediasetItalia/Live.m3u8
-#EXTINF:-1,LA7
-https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
-#EXTINF:-1,LA7
-https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS/Live.m3u8
-#EXTINF:-1,LA7
-https://ilglobotv-live.akamaized.net/channels/La7Italia/Live.m3u8
-#EXTINF:-1,LA7 HD
-https://cachehsi1a.netplus.ch/live/eds/la7/browser-dash/la7.mpd
-#EXTINF:-1,TV 2000
-https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
-#EXTINF:-1,Bom Channel
-https://5f22d76e220e1.streamlock.net/BOMCHANNEL/BOMCHANNEL/playlist.m3u8
-#EXTINF:-1,Cusano Italia TV
-https://router.xdevel.com/video0s975363-69/stream/playlist.m3u8
-#EXTINF:-1,Gold TV Sa
-https://streaming.softwarecreation.it/GoldTvSat/GoldTvSat/playlist.m3u8
-#EXTINF:-1,Gold TV Sa
-https://5a1178b42cc03.streamlock.net/goldsat/goldsat/playlist.m3u8
-#EXTINF:-1,K2
-https://amg16146-wbdi-amg16146c6-samsung-it-1839.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-k2-samsungit/playlist.m3u8
-#EXTINF:-1,Frisbee
-https://amg16146-wbdi-amg16146c7-samsung-it-1840.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-frisbee-samsungit/playlist.m3u8
-#EXTINF:-1,Boing
-https://liveturner.akamaized.net/75a4d1a90e744fa5b9901a1853d2c47f/eu-central-1/6284318116001/playlist.m3u8
-#EXTINF:-1,Rai Gulp
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953
-#EXTINF:-1,Rai Gulp HD
-https://cachehsi1a.netplus.ch/live/eds/raigulp/browser-dash/raigulp.mpd
-#EXTINF:-1,Rai YoYo
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899
-#EXTINF:-1,Super!
-https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8
-#EXTINF:-1,Alto Adige TV
-https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/playlist.m3u8
-#EXTINF:-1,Canale 7
-http://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8
-#EXTINF:-1,CANALE 7
-http://wms.shared.streamshow.it/canale7/mp4:canale7/playlist.m3u8
-#EXTINF:-1,Casa Italia 53
-https://ovp-live.akamaized.net/ac115_live/canale3.smil/playlist.m3u8
-#EXTINF:-1,Company TV
-https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
-#EXTINF:-1,Esperia TV
-http://wms.shared.streamshow.it/esperiatv/esperiatv/playlist.m3u8
-#EXTINF:-1,Esperia TV
-https://59d7d6f47d7fc.streamlock.net/esperiatv/esperiatv/playlist.m3u8
-#EXTINF:-1,Etna Espresso Channel
-https://5db313b643fd8.streamlock.net/Etnachannelponte/Etnachannelponte/playlist.m3u8
-#EXTINF:-1,Euro TV
-https://5f22d76e220e1.streamlock.net/eurotv/eurotv/playlist.m3u8
-#EXTINF:-1,Icaro TV
-https://59d7d6f47d7fc.streamlock.net/icarotv/icarotv/playlist.m3u8
-#EXTINF:-1,Italia 7
-https://streaming.softwarecreation.it/Italia7/Italia7/playlist.m3u8
-#EXTINF:-1,Italia 7
-http://151.0.207.99:1935/italia7/italia7/playlist.m3u8
-#EXTINF:-1,Le Cronache TV
-http://77.68.40.210:8888/hls/cronache.m3u8
-#EXTINF:-1,Le Cronache TV
-http://stucazz.com:8888/hls/cronache.m3u8
-#EXTINF:116,Nuova TV
-https://nuovatv.net:8443/tv/stream.m3u8
-#EXTINF:-1,PrimaFree
-https://5f22d76e220e1.streamlock.net/primafree/primafree/playlist.m3u8
-#EXTINF:30,Primocanale
-https://msh0203.stream.seeweb.it/live/flv:stream2.sdp/playlist.m3u8
-#EXTINF:-1,Quarto Canale Flegreo
-https://live.mariatvcdn.com/dialogos/171e41deedf405f10c7dd6311387fb43.sdp/playlist.m3u8
-#EXTINF:30,RTP
-https://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8
-#EXTINF:-1,ST Europe Channel
-https://5f22d76e220e1.streamlock.net/steuropetv/steuropetv/playlist.m3u8
-#EXTINF:-1,TV Campane 1
-https://eu1.servers10.com:8081/8032/index.m3u8
-#EXTINF:-1,Rete 8
-https://64b16f23efbee.streamlock.net/rete8/rete8/playlist.m3u8
-#EXTINF:-1,Tele One 16
-https://648026e87a75e.streamlock.net/teleone/teleone/playlist.m3u8
-#EXTINF:69,Rai Sport
-#EXTVLCOPT:http-referrer=https://www.raisport.rai.it
-#EXTINF:-1,Inter TV
-https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
-#EXTINF:-1,TR Spor
-https://livetr.teleromagna.it/mia/live/playlist.m3u8
-#EXTINF:-1,Italian Fishing TV
-https://fms.premio.link/fishingtv/playlist.m3u8
-#EXTINF:-1,GO-TV Canale 163
-https://6zklxkbbdw9b-hls-live.mariatvcdn.it/msmotor/2f759512164fc6fe4acbed6a5648993a.sdp/playlist.m3u8
-#EXTINF:-1,Rai News 24
-https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
-#EXTINF:-1,Rai News 24
-https://ilglobotv-live.akamaized.net/channels/RAINews24/Live.m3u8
-#EXTINF:-1,Rai News 24
-https://cachehsi1a.netplus.ch/live/eds/rainews/browser-dash/rainews.mpd
-#EXTINF:-1,LaC News 24
-https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S27391994/HVvPMzy/playlist.m3u8
+
+#EXTINF:-1 tvg-id="test-channel" tvg-name="Test Stream" group-title="Test",Test Stream
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="mock001" tvg-name="Mock News HD" group-title="News",Mock News HD
+http://mocktv.example.com/live/mock_news_hd.m3u8
+
+#EXTINF:-1 tvg-id="mock002" tvg-name="Galaxy Sports 1" group-title="Sports",Galaxy Sports 1
+http://mocktv.example.com/live/galaxy_sports_1.m3u8
+
+#EXTINF:-1 tvg-id="mock003" tvg-name="CineMaxx Action" group-title="Movies",CineMaxx Action
+http://mocktv.example.com/live/cinemaxx_action.m3u8
+
+#EXTINF:-1 tvg-id="mock004" tvg-name="Comedy Vault" group-title="Entertainment",Comedy Vault
+http://mocktv.example.com/live/comedy_vault.m3u8
+
+#EXTINF:-1 tvg-id="mock005" tvg-name="KidsWorld" group-title="Kids",KidsWorld
+http://mocktv.example.com/live/kidsworld.m3u8
+
+#EXTINF:-1 tvg-id="mock006" tvg-name="NatureScope HD" group-title="Documentary",NatureScope HD
+http://mocktv.example.com/live/naturescope_hd.m3u8
+
+#EXTINF:-1 tvg-id="mock007" tvg-name="Mystery Box" group-title="Drama",Mystery Box
+http://mocktv.example.com/live/mystery_box.m3u8
+
+#EXTINF:-1 tvg-id="mock008" tvg-name="Retro Tunes" group-title="Music",Retro Tunes
+http://mocktv.example.com/live/retro_tunes.m3u8
+
+#EXTINF:-1 tvg-id="mock009" tvg-name="Science World" group-title="Education",Science World
+http://mocktv.example.com/live/science_world.m3u8
+
+#EXTINF:-1 tvg-id="mock010" tvg-name="SpeedMax" group-title="Motorsports",SpeedMax
+http://mocktv.example.com/live/speedmax.m3u8
+
+#EXTINF:-1 tvg-id="mock011" tvg-name="PixelTV" group-title="Gaming",PixelTV
+http://mocktv.example.com/live/pixeltv.m3u8
+
+#EXTINF:-1 tvg-id="mock012" tvg-name="Deep Dive" group-title="Tech",Deep Dive
+http://mocktv.example.com/live/deep_dive.m3u8
+
+#EXTINF:-1 tvg-id="mock013" tvg-name="Lounge Life" group-title="Lifestyle",Lounge Life
+http://mocktv.example.com/live/lounge_life.m3u8
+
+#EXTINF:-1 tvg-id="mock014" tvg-name="Street Food HD" group-title="Cooking",Street Food HD
+http://mocktv.example.com/live/street_food_hd.m3u8
+
+#EXTINF:-1 tvg-id="mock015" tvg-name="Thriller Nights" group-title="Movies",Thriller Nights
+http://mocktv.example.com/live/thriller_nights.m3u8
+
+#EXTINF:-1 tvg-id="mock016" tvg-name="ArtLine" group-title="Culture",ArtLine
+http://mocktv.example.com/live/artline.m3u8
+
+#EXTINF:-1 tvg-id="mock017" tvg-name="Finance Central" group-title="Business",Finance Central
+http://mocktv.example.com/live/finance_central.m3u8
+
+#EXTINF:-1 tvg-id="mock018" tvg-name="ZenScapes" group-title="Relax",ZenScapes
+http://mocktv.example.com/live/zengarden.m3u8
+
+#EXTINF:-1 tvg-id="mock019" tvg-name="Puzzle Planet" group-title="Kids",Puzzle Planet
+http://mocktv.example.com/live/puzzle_planet.m3u8
+
+#EXTINF:-1 tvg-id="mock020" tvg-name="Warrior Gym TV" group-title="Fitness",Warrior Gym TV
+http://mocktv.example.com/live/warrior_gym_tv.m3u8
+
+#EXTINF:-1 tvg-id="mock021" tvg-name="Drone View" group-title="Travel",Drone View
+http://mocktv.example.com/live/drone_view.m3u8
+
+#EXTINF:-1 tvg-id="mock022" tvg-name="Mock Weather 24" group-title="Weather",Mock Weather 24
+http://mocktv.example.com/live/mock_weather_24.m3u8
+
+#EXTINF:-1 tvg-id="mock023" tvg-name="Startup Stories" group-title="Tech",Startup Stories
+http://mocktv.example.com/live/startup_stories.m3u8
+
+#EXTINF:-1 tvg-id="mock024" tvg-name="Urban Explorer" group-title="Travel",Urban Explorer
+http://mocktv.example.com/live/urban_explorer.m3u8
+
+#EXTINF:-1 tvg-id="mock025" tvg-name="Mock Anime HD" group-title="Anime",Mock Anime HD
+http://mocktv.example.com/live/mock_anime_hd.m3u8
+
+#EXTINF:-1 tvg-id="mock026" tvg-name="Laugh Tracks" group-title="Entertainment",Laugh Tracks
+http://mocktv.example.com/live/laugh_tracks.m3u8
+
+#EXTINF:-1 tvg-id="mock027" tvg-name="Mock eSports Arena" group-title="Gaming",Mock eSports Arena
+http://mocktv.example.com/live/mock_esports_arena.m3u8
+
+#EXTINF:-1 tvg-id="mock028" tvg-name="DreamHome TV" group-title="Home & Garden",DreamHome TV
+http://mocktv.example.com/live/dreamhome_tv.m3u8
+
+#EXTINF:-1 tvg-id="mock029" tvg-name="Mock Gospel Channel" group-title="Faith",Mock Gospel Channel
+http://mocktv.example.com/live/mock_gospel_channel.m3u8
+
+#EXTINF:-1 tvg-id="mock030" tvg-name="Vintage Cinema" group-title="Movies",Vintage Cinema
+http://mocktv.example.com/live/vintage_cinema.m3u8
