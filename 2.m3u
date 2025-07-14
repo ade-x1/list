@@ -1,94 +1,91 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="test-channel" tvg-name="Test Stream" group-title="Test",Test Stream
+#EXTINF:-1 tvg-id="mock001" tvg-name="Test Stream HD" group-title="Test",Test Stream HD
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
 
-#EXTINF:-1 tvg-id="mock001" tvg-name="Mock News HD" group-title="News",Mock News HD
-http://mocktv.example.com/live/mock_news_hd.m3u8
+#EXTINF:-1 tvg-id="mock002" tvg-name="Mock News HD" group-title="News",Mock News HD
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
 
-#EXTINF:-1 tvg-id="mock002" tvg-name="Galaxy Sports 1" group-title="Sports",Galaxy Sports 1
-http://mocktv.example.com/live/galaxy_sports_1.m3u8
+#EXTINF:-1 tvg-id="mock003" tvg-name="Galaxy Sports 1" group-title="Sports",Galaxy Sports 1
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
 
-#EXTINF:-1 tvg-id="mock003" tvg-name="CineMaxx Action" group-title="Movies",CineMaxx Action
-http://mocktv.example.com/live/cinemaxx_action.m3u8
+#EXTINF:-1 tvg-id="mock004" tvg-name="CineMaxx Action" group-title="Movies",CineMaxx Action
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
 
-#EXTINF:-1 tvg-id="mock004" tvg-name="Comedy Vault" group-title="Entertainment",Comedy Vault
-http://mocktv.example.com/live/comedy_vault.m3u8
+#EXTINF:-1 tvg-id="mock005" tvg-name="Comedy Vault" group-title="Entertainment",Comedy Vault
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
 
-#EXTINF:-1 tvg-id="mock005" tvg-name="KidsWorld" group-title="Kids",KidsWorld
-http://mocktv.example.com/live/kidsworld.m3u8
+#EXTINF:-1 tvg-id="mock006" tvg-name="KidsWorld" group-title="Kids",KidsWorld
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
 
-#EXTINF:-1 tvg-id="mock006" tvg-name="NatureScope HD" group-title="Documentary",NatureScope HD
-http://mocktv.example.com/live/naturescope_hd.m3u8
+#EXTINF:-1 tvg-id="mock007" tvg-name="NatureScope HD" group-title="Documentary",NatureScope HD
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
 
-#EXTINF:-1 tvg-id="mock007" tvg-name="Mystery Box" group-title="Drama",Mystery Box
-http://mocktv.example.com/live/mystery_box.m3u8
+#EXTINF:-1 tvg-id="mock008" tvg-name="Mystery Box" group-title="Drama",Mystery Box
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
 
-#EXTINF:-1 tvg-id="mock008" tvg-name="Retro Tunes" group-title="Music",Retro Tunes
-http://mocktv.example.com/live/retro_tunes.m3u8
+#EXTINF:-1 tvg-id="mock009" tvg-name="Retro Tunes" group-title="Music",Retro Tunes
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
 
-#EXTINF:-1 tvg-id="mock009" tvg-name="Science World" group-title="Education",Science World
-http://mocktv.example.com/live/science_world.m3u8
+#EXTINF:-1 tvg-id="mock010" tvg-name="Science World" group-title="Education",Science World
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
 
-#EXTINF:-1 tvg-id="mock010" tvg-name="SpeedMax" group-title="Motorsports",SpeedMax
-http://mocktv.example.com/live/speedmax.m3u8
+#EXTINF:-1 tvg-id="mock011" tvg-name="SpeedMax" group-title="Motorsports",SpeedMax
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
 
-#EXTINF:-1 tvg-id="mock011" tvg-name="PixelTV" group-title="Gaming",PixelTV
-http://mocktv.example.com/live/pixeltv.m3u8
+#EXTINF:-1 tvg-id="mock012" tvg-name="PixelTV" group-title="Gaming",PixelTV
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
 
-#EXTINF:-1 tvg-id="mock012" tvg-name="Deep Dive" group-title="Tech",Deep Dive
-http://mocktv.example.com/live/deep_dive.m3u8
+#EXTINF:-1 tvg-id="mock013" tvg-name="Deep Dive" group-title="Tech",Deep Dive
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
 
-#EXTINF:-1 tvg-id="mock013" tvg-name="Lounge Life" group-title="Lifestyle",Lounge Life
-http://mocktv.example.com/live/lounge_life.m3u8
+#EXTINF:-1 tvg-id="mock014" tvg-name="Lounge Life" group-title="Lifestyle",Lounge Life
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
 
-#EXTINF:-1 tvg-id="mock014" tvg-name="Street Food HD" group-title="Cooking",Street Food HD
-http://mocktv.example.com/live/street_food_hd.m3u8
+#EXTINF:-1 tvg-id="mock015" tvg-name="Street Food HD" group-title="Cooking",Street Food HD
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
 
-#EXTINF:-1 tvg-id="mock015" tvg-name="Thriller Nights" group-title="Movies",Thriller Nights
-http://mocktv.example.com/live/thriller_nights.m3u8
+#EXTINF:-1 tvg-id="mock016" tvg-name="Thriller Nights" group-title="Movies",Thriller Nights
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
 
-#EXTINF:-1 tvg-id="mock016" tvg-name="ArtLine" group-title="Culture",ArtLine
-http://mocktv.example.com/live/artline.m3u8
+#EXTINF:-1 tvg-id="mock017" tvg-name="ArtLine" group-title="Culture",ArtLine
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
 
-#EXTINF:-1 tvg-id="mock017" tvg-name="Finance Central" group-title="Business",Finance Central
-http://mocktv.example.com/live/finance_central.m3u8
+#EXTINF:-1 tvg-id="mock018" tvg-name="Finance Central" group-title="Business",Finance Central
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
 
-#EXTINF:-1 tvg-id="mock018" tvg-name="ZenScapes" group-title="Relax",ZenScapes
-http://mocktv.example.com/live/zengarden.m3u8
+#EXTINF:-1 tvg-id="mock019" tvg-name="ZenScapes" group-title="Relax",ZenScapes
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
 
-#EXTINF:-1 tvg-id="mock019" tvg-name="Puzzle Planet" group-title="Kids",Puzzle Planet
-http://mocktv.example.com/live/puzzle_planet.m3u8
+#EXTINF:-1 tvg-id="mock020" tvg-name="Puzzle Planet" group-title="Kids",Puzzle Planet
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
 
-#EXTINF:-1 tvg-id="mock020" tvg-name="Warrior Gym TV" group-title="Fitness",Warrior Gym TV
-http://mocktv.example.com/live/warrior_gym_tv.m3u8
+#EXTINF:-1 tvg-id="mock021" tvg-name="Warrior Gym TV" group-title="Fitness",Warrior Gym TV
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
 
-#EXTINF:-1 tvg-id="mock021" tvg-name="Drone View" group-title="Travel",Drone View
-http://mocktv.example.com/live/drone_view.m3u8
+#EXTINF:-1 tvg-id="mock022" tvg-name="Drone View" group-title="Travel",Drone View
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
 
-#EXTINF:-1 tvg-id="mock022" tvg-name="Mock Weather 24" group-title="Weather",Mock Weather 24
-http://mocktv.example.com/live/mock_weather_24.m3u8
+#EXTINF:-1 tvg-id="mock023" tvg-name="Mock Weather 24" group-title="Weather",Mock Weather 24
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
 
-#EXTINF:-1 tvg-id="mock023" tvg-name="Startup Stories" group-title="Tech",Startup Stories
-http://mocktv.example.com/live/startup_stories.m3u8
+#EXTINF:-1 tvg-id="mock024" tvg-name="Startup Stories" group-title="Tech",Startup Stories
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
 
-#EXTINF:-1 tvg-id="mock024" tvg-name="Urban Explorer" group-title="Travel",Urban Explorer
-http://mocktv.example.com/live/urban_explorer.m3u8
+#EXTINF:-1 tvg-id="mock025" tvg-name="Urban Explorer" group-title="Travel",Urban Explorer
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
 
-#EXTINF:-1 tvg-id="mock025" tvg-name="Mock Anime HD" group-title="Anime",Mock Anime HD
-http://mocktv.example.com/live/mock_anime_hd.m3u8
+#EXTINF:-1 tvg-id="mock026" tvg-name="Mock Anime HD" group-title="Anime",Mock Anime HD
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
 
-#EXTINF:-1 tvg-id="mock026" tvg-name="Laugh Tracks" group-title="Entertainment",Laugh Tracks
-http://mocktv.example.com/live/laugh_tracks.m3u8
+#EXTINF:-1 tvg-id="mock027" tvg-name="Laugh Tracks" group-title="Entertainment",Laugh Tracks
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
 
-#EXTINF:-1 tvg-id="mock027" tvg-name="Mock eSports Arena" group-title="Gaming",Mock eSports Arena
-http://mocktv.example.com/live/mock_esports_arena.m3u8
+#EXTINF:-1 tvg-id="mock028" tvg-name="Mock eSports Arena" group-title="Gaming",Mock eSports Arena
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
 
-#EXTINF:-1 tvg-id="mock028" tvg-name="DreamHome TV" group-title="Home & Garden",DreamHome TV
-http://mocktv.example.com/live/dreamhome_tv.m3u8
-
-#EXTINF:-1 tvg-id="mock029" tvg-name="Mock Gospel Channel" group-title="Faith",Mock Gospel Channel
-http://mocktv.example.com/live/mock_gospel_channel.m3u8
+#EXTINF:-1 tvg-id="mock029" tvg-name="DreamHome TV" group-title="Home & Garden",DreamHome TV
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
 
 #EXTINF:-1 tvg-id="mock030" tvg-name="Vintage Cinema" group-title="Movies",Vintage Cinema
-http://mocktv.example.com/live/vintage_cinema.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
