@@ -55,9 +55,9 @@ https://stream10.xdevel.com/video2s976543-2104/stream/playlist.m3u8
 
 #EXTGRP:Mediaset (National Broadcaster)
 #EXTINF:105 tvg-id="Canale.5.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/canale5-it.png",Canale 5 HD
-https://cachehsi1a.netplus.ch/live/eds/canale5/browser-dash/canale5.mpd
+https://viamotionhsi.netplus.ch/live/eds/canale5/browser-HLS8/canale5.m3u8
 #EXTINF:58 tvg-id="Rete.4.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rete4-it.png",Rete 4 HD
-https://cachehsi1a.netplus.ch/live/eds/rete4/browser-dash/rete4.mpd
+https://viamotionhsi.netplus.ch/live/eds/rete4/browser-HLS8/rete4.m3u8
 #EXTINF:61 tvg-id="Italia.1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/italia1-it.png",Italia 1 HDx
 https://viamotionhsi.netplus.ch/live/eds/italia1/browser-HLS8/italia1.m3u8
 #https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
@@ -68,7 +68,7 @@ https://ilglobotv-live.akamaized.net/channels/MediasetItalia/Live.m3u8
 
 #EXTGRP:General Entertainment
 #EXTINF:61 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/la7-it.png",LA7 HD
-https://cachehsi1a.netplus.ch/live/eds/la7/browser-dash/la7.mpd
+https://viamotionhsi.netplus.ch/live/eds/la7/browser-HLS8/la7.m3u8
 #LA7
 #https://d3749synfikwkv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-74ylxpgd78bpb/Live.m3u8
 #LA7
