@@ -22,10 +22,11 @@ https://testenvironment.kinsta.cloud/bigbuckbunny.mp4
 
 #EXTGRP:RAI (National Broadcaster)
 #EXTINF:74 tvg-id="Rai1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai1-it.png",Rai 1 HD
-https://cachehsi1a.netplus.ch/live/eds/rai1/browser-dash/rai1.mpd
+https://ilglobotv-live.akamaized.net/channels/RAI1/Live.m3u8
+#https://cachehsi1a.netplus.ch/live/eds/rai1/browser-dash/rai1.mpd
 #Rai 1 HD
 #https://ilglobotv-live.akamaized.net/channels/RAI1/Live.m3u8
-#EXTINF:0 tvg-id="Rai2.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai2-it.png",Rai 2 HDx
+#EXTINF:0 tvg-id="Rai2.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai2-it.png",Rai 2 HD
 https://ilglobotv-live.akamaized.net/channels/RAI2/Live.m3u8
 #https://cachehsi1a.netplus.ch/live/eds/rai2/browser-dash/rai2.mpd
 #Rai 2 HD
@@ -35,7 +36,8 @@ https://ilglobotv-live.akamaized.net/channels/RAI2/Live.m3u8
 #Rai 3
 #https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8
 #EXTINF:76 tvg-id="Rai3.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai3-it.png",Rai 3
-https://ilglobotv-live.akamaized.net/channels/RAI3/Live.m3u8
+https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8
+#https://ilglobotv-live.akamaized.net/channels/RAI3/Live.m3u8
 #EXTINF:76,Rai Italia
 https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAfrica/Live.m3u8
 #EXTINF:0 tvg-id="RaiMovie.it",Rai Movie
