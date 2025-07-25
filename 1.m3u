@@ -25,8 +25,9 @@ https://testenvironment.kinsta.cloud/bigbuckbunny.mp4
 https://cachehsi1a.netplus.ch/live/eds/rai1/browser-dash/rai1.mpd
 #Rai 1 HD
 #https://ilglobotv-live.akamaized.net/channels/RAI1/Live.m3u8
-#EXTINF:0 tvg-id="Rai2.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai2-it.png",Rai 2 HD
-https://cachehsi1a.netplus.ch/live/eds/rai2/browser-dash/rai2.mpd
+#EXTINF:0 tvg-id="Rai2.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai2-it.png",Rai 2 HDx
+https://ilglobotv-live.akamaized.net/channels/RAI2/Live.m3u8
+#https://cachehsi1a.netplus.ch/live/eds/rai2/browser-dash/rai2.mpd
 #Rai 2 HD
 #https://ilglobotv-live.akamaized.net/channels/RAI2/Live.m3u8
 #Rai 3
